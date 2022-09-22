@@ -18,5 +18,4 @@ int main(void){
             printf("Num2 is GREATER!");
         }
     }
-    return 0;
 }
