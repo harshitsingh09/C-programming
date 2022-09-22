@@ -17,4 +17,4 @@ int main(){
             printf("Num2 is GREATER!");
         }
     }
-} //hahahaha
+}
